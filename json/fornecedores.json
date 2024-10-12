@@ -1,0 +1,32 @@
+[
+    {
+    "id": 1,
+    "nome": "Papelaria Silva",
+    "cnpj": "12.345.678/0001-90"
+    },
+    {
+    "id": 2,
+    "nome": "Distribuidora Escolar Ltda",
+    "cnpj": "98.765.432/0001-12"
+    },
+    {
+    "id": 3,
+    "nome": "Artigos de Escritório XYZ",
+    "cnpj": "11.222.333/0001-44"
+    },
+    {
+    "id": 4,
+    "nome": "Fornecedora ABC",
+    "cnpj": "55.666.777/0001-99"
+    },
+    {
+    "id": 5,
+    "nome": "Loja de Materiais 123",
+    "cnpj": "22.333.444/0001-77"
+    },
+    {
+    "id": 6,
+    "nome": "Mega Distribuidora de Papel",
+    "cnpj": "44.555.666/0001-88"
+    }
+]
